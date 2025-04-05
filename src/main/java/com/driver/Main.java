@@ -12,6 +12,8 @@ public class Main {
             return x*y;
         }
     }
+
+
     public static void main(String[] args) {
         Product p= new Product();
         int result1=p.product(5,10);
